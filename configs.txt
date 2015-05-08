@@ -1,0 +1,16 @@
+172.16.49.50#MyIp
+172.16.49.2#IpRobo1
+1111#DestinationPortRobo1
+2221#MyPortRobo1
+172.16.49.3#IpRobo2
+1112#DestinationPortRobo2
+2222#MyPortRobo2
+172.16.49.4#IpRobo3
+1113#DestinationPortRobo3
+2223#MyPortRobo3
+172.16.49.5#IpRobo4
+1114#DestinationPortRobo4
+2224#MyPortRobo4
+172.16.49.6#IpRobo5
+1115#DestinationPortRobo5
+2225#MyPortRobo5
